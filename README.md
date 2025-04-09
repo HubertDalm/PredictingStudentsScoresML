@@ -4,9 +4,15 @@ Prediction of students performance on exams  considering key factors such as stu
 Przewidywanie wyników uczniów na egzaminach, uwzględniając kluczowe czynniki, takie jak nawyki związane z nauką, wzorce snu, tło społeczno-ekonomiczne oraz frekwencję na zajęciach.
 
 MODELS:
-Radom forest,Linear Regresison,linera regerssion lasso, ridge, drzewo dezyzjne,MLP,KNN,
-
-
+Las losowy (Random Forest)
+Regresja liniowa (Linear Regression)
+Lasso
+Ridge
+Drzewo decyzyjne (Decision Tree)
+MLP (Multi-Layer Perceptron)
+KNN (K-Nearest Neighbors)
+SVR (Support Vector Regression)
+GradientBoostingRegressor
 
 
 dataset from kaggle
